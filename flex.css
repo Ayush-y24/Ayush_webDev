@@ -1,0 +1,22 @@
+#container {
+    height: 300px;
+    width: 80%;
+    background-color: cyan;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly   ;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container div {
+    height: 100px;
+    width: 30px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
